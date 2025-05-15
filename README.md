@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lagarra00
+- 👋 Hi, I’m @danis1549
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -10,4 +10,4 @@
 Lagarra00/Lagarra00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->enbial recurso a world chaim 
-0x4073c25cb96358056be82f6ad29c4f3244541549 
+bc1psmhztjgzxausqguh47sz6jd0dxgps3fdhwwcl50z80j6dmpw0t7qwp6qm7
